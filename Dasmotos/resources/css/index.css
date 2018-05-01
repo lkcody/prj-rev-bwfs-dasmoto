@@ -1,0 +1,38 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h1 {
+  color: khaki;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#header{
+  background-image: url("/Users/leacody/Desktop/projects/Dasmotos/resources/images/pattern.jpg");
+}
+
+h2{
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.price{
+  color: blue;
+  font-weight: bold;
+}
+
+#brushes.sectiontitle{
+  background-color: mediumspringgreen;
+}
+
+#frames.sectiontitle{
+  background-color: lightcoral;
+}
+
+#paint.sectiontitle{
+  background-color: skyblue;
+}
